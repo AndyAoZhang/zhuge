@@ -1,4 +1,4 @@
 cd "$(dirname $0)" || exit
-cd ..
+cd ../docs
 
 jekyll serve --drafts
