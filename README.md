@@ -6,7 +6,7 @@
 ## 使用说明
 
 1.  拨打电话号码： 
-![img.png](images/contact-img.png)
+![img.png](images/my-contact-img.png)
 2.  随便说点什么
 
 ## 参与贡献
