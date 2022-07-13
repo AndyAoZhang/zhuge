@@ -2,7 +2,7 @@
 name: 功能需求
 about: 建议添加什么功能
 title: ''
-labels: documentation, enhancement
+labels: documentation, 用户故事
 assignees: zhonghuipro
 
 ---
