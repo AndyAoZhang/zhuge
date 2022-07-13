@@ -23,7 +23,7 @@
 欢迎 [点这里](/../../issues/new?assignees=zhonghuipro&labels=bug&template=bug-report.md&title=) 写下你的优化建议。
 
 ### 参与建设
-
+想一起改变世界？
 1. Fork 本仓库
 2. 新建 feature_xxx 分支
 3. 提交代码
