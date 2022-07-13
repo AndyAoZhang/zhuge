@@ -1,5 +1,5 @@
 ---
-name: 系统问题
+name: 问题报告
 about: 报告一个问题，帮我们完善系统
 title: ''
 labels: bug
