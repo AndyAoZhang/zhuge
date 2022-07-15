@@ -2,7 +2,7 @@
 name: 问题报告
 about: 报告一个问题，帮我们完善系统
 title: ''
-labels: bug
+labels: bug, documentation, 用户故事
 assignees: zhonghuipro
 
 ---
