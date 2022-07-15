@@ -14,7 +14,7 @@
 
 有什么好的想法？只要对你有帮助，六六都尽力帮你实现。
 
-欢迎 [点这里](/../../issues/new?assignees=zhonghuipro&labels=documentation%2C+用户故事&template=user-story.md&title=) 写下你的牛逼想法。
+欢迎 [点这里](/../../issues/new?assignees=zhonghuipro&labels=用户故事&template=user-story.md&title=) 写下你的牛逼想法。
 
 ### 问题汇报
 
