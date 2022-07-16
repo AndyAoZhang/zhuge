@@ -5,7 +5,7 @@
 
 ## 使用说明
 
-1.  拨打电话号码： <br/> ![img.png](images/my-contact-img.png)
+1.  拨打电话号码： <br/> ![my-contact](images/my-contact-img.png)
 2.  随便说点什么
 
 ## 参与贡献
@@ -32,31 +32,7 @@
 
 ## 系统架构
 
-```mermaid
-graph LR
-subgraph SA["zhuge-api"]
-    sa1["互动接口"]
-end
-
-subgraph SB["zhuge-data"]
-    sb1["通知接口"]
-end
-
-subgraph SC["阿里云"]
-    sc1["钟六六<br/>（虚拟电话）"]
-end
-
-subgraph SP["用户"]
-    sp1["张三"]
-end
-
-sp1 --"1. 呼入：语音/按键/静音/挂断" --> sc1 -- "2. 输入：用户操作" --> sa1
-
-sa1 --"3. 输出：回复操作"--> sc1 --"4. 呼出：语音/TTS/静音/挂断"--> sp1
-
-sc1 --"5. 通知：录音/记录"--> sb1
-
-```
+![img](images/draw-io/zhuge-system.drawio.png)
 
 
 ## 安装教程
