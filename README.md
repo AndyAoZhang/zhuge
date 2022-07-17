@@ -5,7 +5,7 @@
 
 ## 使用说明
 
-1.  拨打电话号码： <br/> ![my-contact](images/my-contact-img.png)
+1.  拨打电话号码： <br/> ![my-contact](images/my-contact-img.drawio.png)
 2.  随便说点什么
 
 ## 参与贡献
@@ -30,9 +30,13 @@
 4. 新建 Pull Request
 5. 等待美好的事情即将发生
 
-## 系统架构
+## 系统模块
 
-![img](images/draw-io/zhuge-system.drawio.png)
+![img](images/zhuge-system.drawio.png)
+
+## 交互流程
+
+![img](images/zhuge-system-flow.drawio.png)
 
 
 ## 安装教程
